@@ -1,26 +1,59 @@
+
 <h1 align="center">Hi 👋, I'm Sarath</h1>
-<h3 align="center">A passionate frontend de👨‍💻 IT Professional | Data Enthusiast 📊 | DevOps Engineer | 🎓 Post Grad Student 🔍 Experienced in Python, SQL, Power BI 📈 Data Analyst in the makingveloper from India</h3>
+<h3 align="center">A passionate Data Analyst based in Toronto, Canada</h3>
+<!--
+<div align="center">
+  <img alt="Data Analyst" src="https://user-images.githubusercontent.com/66437638/151714978-6737d779-3d35-4926-9d9f-1f4f16946e7a.gif">
+</div>
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarathchandran7&label=Profile%20views&color=0e75b6&style=flat" alt="sarathchandran7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarathchandran7" alt="sarathchandran7" /></a> </p>
 
-- 🔭 I’m currently working on **Lego Challenge**
+- 👀 I’m interested in working in the field of Big Data, Data Science/Analytics and Machine learning.
 
-- 🌱 I’m currently learning **Microsoft PowerBI**
+- 📫 How to reach me **sarathchandran712@gmail.com**, [Linkedin - Sarath](https://www.linkedin.com/in/sarathchandran-santhosh/)
 
-- 📫 How to reach me **sarathchandran712@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- 📄 Resume [https://drive.google.com/uc?id=1pvU-ggOSGhRv5rF90bG3IiuyCm4FiWMj](https://drive.google.com/uc?id=1pvU-ggOSGhRv5rF90bG3IiuyCm4FiWMj)
+<br>
 <p align="left">
-<a href="https://linkedin.com/in/sarathchandran-santhosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarathchandran-santhosh" height="30" width="40" /></a>
-<a href="https://kaggle.com/sarath712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sarath712" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sarathchandran712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarathchandran712" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarathchandran7&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Sarathchandran7's Top Languages" />
 </p>
 
+
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarathchandran7&show_icons=true&theme=transparent" alt="Jibin's GitHub Stats" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarathchandran7&theme=transparent" alt="Sarathchandran7's GitHub Streak Stats" />
+</p>
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Sarathchandran7&label=Profile%20views&color=0e75b6&style=flat" alt="Sarathchandran7" /> </p>
+
+
+
+
+---
+<!-- GitHub README.md -->
+
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+ <!-- GitHub README.md -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarathchandran7&show_icons=true&locale=en&layout=compact" alt="sarathchandran7" /></p>
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="100" height="100"> | <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" title="Hadoop" width="100" height="100"> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="Git" width="100" height="100"> | |
+|---|---|---|---|
+| <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" title="Microsoft SQL Server" width="100" height="100"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="MySQL" width="100" height="100"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="MongoDB" width="100" height="100"> | <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit_learn" title="Scikit-Learn" width="100" height="100"> |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" title="Pandas" width="100" height="100"> | <img src="https://numpy.org/images/logos/numpy.svg" alt="numpy" title="NumPy" width="100" height="100"> | <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" title="Matplotlib" width="100" height="100"> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" title="Seaborn" width="100" height="100"> |
+| <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" title="Microsoft Power BI" width="100" height="100"> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" title="Tableau" width="100" height="100"> | <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R Logo" title="R Programming Language" width="100" height="100"> |
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarathchandran7&" alt="sarathchandran7" /></p>
+---
+
+
+<h3 >Open for Collaberation </h3>
+  Join the Innovation Journey! Ready to turn ideas into impactful projects? Thrive on collaborative teamwork and believe in merging diverse ideas for sustainable solutions? Let's talk! 
+ <br>
+<h3 align = "center"> Connect with me:</h3>
+<p align = "center">
+<a href="https://linkedin.com/in/Sarathchandran7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sarathchandran7" height="30" width="40" /></a>
+</p>
